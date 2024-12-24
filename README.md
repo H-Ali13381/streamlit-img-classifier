@@ -37,7 +37,7 @@ The app uses a pre-trained model fine-tuned on 1000 image categories from the [I
 - tench
 - goldfish
 - great white shark
-+ 997 others
+- *997 others*
 
 
 ## License
