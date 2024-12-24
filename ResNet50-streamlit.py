@@ -21,8 +21,10 @@ def main():
             # This is needed to format the data files- alternatively, can use Request type in api for binary.
             files = {'image_file': ('filename.jpg', uploaded_file, 'image/jpeg')} 
             
-            
-            api = requests.post(url, files=files)
+            try:
+                api = requests.post(url, files=files)
+            except:
+                st.write("An error occurred- the backend server may be offline, try again in ~5 min")
             result = api.json()
             
             st.write(result)
