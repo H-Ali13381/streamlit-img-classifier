@@ -1,7 +1,5 @@
-﻿fastapi
-numpy
-pillow
-requests
 tensorflow
 keras
 streamlit
+uvicorn
+numpy
