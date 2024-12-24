@@ -1,8 +1,7 @@
-﻿fastapi==0.103.2
-numpy==2.1.2
-pillow==11.0.0
-requests==2.31.0
-
+﻿fastapi
+numpy
+pillow
+requests
 tensorflow
 keras
 streamlit
