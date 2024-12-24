@@ -24,7 +24,7 @@ def main():
             try:
                 api = requests.post(url, files=files)
             except:
-                st.write("An error occurred- the backend server may be offline, try again in ~5 min")
+                st.write("An error occurred- the backend server may be offline, try again in ~1 min")
             result = api.json()
             
             st.write(result)
