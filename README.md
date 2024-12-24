@@ -33,7 +33,7 @@ Streamlit app:
 
 
 ## Model Details
-The app uses a pre-trained model fine-tuned on 1000 image categories from the [https://en.wikipedia.org/wiki/ImageNet](ImageNet dataset) including:
+The app uses a pre-trained model fine-tuned on 1000 image categories from the [https://en.wikipedia.org/wiki/ImageNet](URL "ImageNet dataset") including:
 - tench
 - goldfish
 - great white shark
