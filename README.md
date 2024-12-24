@@ -33,7 +33,12 @@ Streamlit app:
 
 
 ## Model Details
-The app uses a pre-trained model fine-tuned on 1000 image categories (ImageNet dataset).
+The app uses a pre-trained model fine-tuned on 1000 image categories from the [https://en.wikipedia.org/wiki/ImageNet](ImageNet dataset) including:
+- tench
+- goldfish
+- great white shark
++ 997 others
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
