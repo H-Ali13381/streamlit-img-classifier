@@ -5,12 +5,12 @@ This project is a web application for classifying images, built using **Streamli
 
 ## Features
 - **Image Upload:** Drag and drop or browse to upload images.
-- **Real-time Predictions:** Classify uploaded images instantly.
+- **Real-time Predictions:** Classify uploaded images (almost) instantly.
 - **User-friendly Interface:** Built with Streamlit for an intuitive experience.
 
 ## Usage
 1. Open the app in your browser (https://app-img-classifier.streamlit.app/).
-2. Upload an image using the provided upload button.
+2. Upload an image using the provided upload button. (see TestImages for examples)
 3. View the classification results displayed on the screen.
 
 ## File Structure
