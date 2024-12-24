@@ -9,7 +9,7 @@ This project is a web application for classifying images, built using **Streamli
 - **User-friendly Interface:** Built with Streamlit for an intuitive experience.
 
 ## Usage
-1. Open the app in your browser (https://webapp-img-classifier.streamlit.app/).
+1. Open the app in your browser (https://app-img-classifier.streamlit.app/).
 2. Upload an image using the provided upload button.
 3. View the classification results displayed on the screen.
 
