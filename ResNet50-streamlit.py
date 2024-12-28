@@ -1,5 +1,3 @@
-# 2220426 - Hasan Ali 
-
 import streamlit as st
 import requests
 
