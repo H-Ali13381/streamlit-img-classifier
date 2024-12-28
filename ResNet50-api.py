@@ -1,5 +1,3 @@
-# 2220426 - Hasan Ali 
-
 from fastapi import FastAPI, UploadFile, File
 import uvicorn
 from tensorflow.keras.applications import ResNet50
